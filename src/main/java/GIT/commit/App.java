@@ -16,7 +16,9 @@ public class App
         System.out.println( "Hello World!" );
         
        
-        
+        int a;
+        int c;
+        sting abcd;
         
     }
 }
